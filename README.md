@@ -1,6 +1,6 @@
 
 
-\# 🚀 End-to-End Customer Churn Prediction System
+# 🚀 End-to-End Customer Churn Prediction System
 
 
 
@@ -8,7 +8,7 @@ This project implements a production-ready machine learning pipeline to predict 
 
 
 
-\## 📊 Key Insights from EDA
+## 📊 Key Insights from EDA
 
 \* \*\*Support Calls:\*\* A critical churn driver; customers with >5 calls show a significantly higher churn rate.
 
@@ -18,7 +18,7 @@ This project implements a production-ready machine learning pipeline to predict 
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 \* \*\*Machine Learning:\*\* Scikit-Learn (Random Forest Classifier)
 
@@ -30,7 +30,7 @@ This project implements a production-ready machine learning pipeline to predict 
 
 
 
-\## 🏗️ Project Structure
+## 🏗️ Project Structure
 
 \- `src/train.py`: Production script for model training and artifact generation.
 
@@ -44,7 +44,7 @@ This project implements a production-ready machine learning pipeline to predict 
 
 
 
-\## 🚀 Getting Started
+## 🚀 Getting Started
 
 1\. \*\*Train the Model:\*\* `python src/train.py`
 
