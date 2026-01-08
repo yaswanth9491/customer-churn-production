@@ -1,0 +1,23 @@
+# Core Data Science
+pandas==2.2.0
+numpy==1.26.0
+scikit-learn==1.4.0
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Imbalance Handling
+imbalanced-learn==0.12.0
+
+# MLOps & Tracking
+mlflow==2.10.0
+joblib==1.3.0
+
+# API & Deployment
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.6.0
+python-multipart==0.0.6
+
+# Testing & Quality
+pytest==8.0.0
+black==24.1.0
